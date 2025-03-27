@@ -1,6 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasTesche1&theme=Tokyonight&show_icons=true)  [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTesche1&layout=compact)](https://github.com/LucasTesche1/github-readme-stats)
-
-
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=Joao1799&hide=html&layout=compact&theme=Dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style= "display:flex">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
