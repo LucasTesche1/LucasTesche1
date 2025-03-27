@@ -1,11 +1,5 @@
 <h2 align="left">Dev Full Stack!</h2>
 
-###
-
-<img align="right" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHF0cndsMWdyZHdqa2hrdzVmdGNkNXJzM3h0ZXJmZHZzcjBjZHNxbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lz6QCf8mXOPLJWJpTc/giphy.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
   <img width="12" />
@@ -27,16 +21,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
 </div>
-
-###
-
 <br clear="both">
-
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-
-###
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTesche1&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
