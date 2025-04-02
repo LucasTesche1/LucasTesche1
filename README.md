@@ -1,7 +1,8 @@
 <h2 align="left">Dev Full Stack!</h2>
-<h2>📌Cursando o 7º semestre de Engenharia de Software na Universidade Católica de Brasília - (UCB).
-📌Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!</h2>
+<p>📌Cursando o 7º semestre de Engenharia de Software na Universidade Católica de Brasília - (UCB).</p>
+<p>📌Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!</p>
 
+<tr></tr>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
