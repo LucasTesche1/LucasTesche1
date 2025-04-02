@@ -31,6 +31,6 @@
 </div>
 <br>
 
-<div align="center">
+
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasTesche1&hide=html&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
