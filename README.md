@@ -1,4 +1,6 @@
 <h2 align="left">Dev Full Stack!</h2>
+<h2>📌Cursando o 7º semestre de Engenharia de Software na Universidade Católica de Brasília - (UCB).
+📌Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!</h2>
 
 
 <div align="center">
