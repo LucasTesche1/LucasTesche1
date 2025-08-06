@@ -6,7 +6,7 @@
 
 <div align="center">
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-plain.svg" height="50" alt="salesforce logo"  />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" height="50" alt="salesforce logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="spring logo"  />
