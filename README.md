@@ -8,6 +8,16 @@
 <p>👋Olá, me chamo Lucas Tesche!</p>
 <p>📌Cursando o 8º semestre de Engenharia de Software na Universidade Católica de Brasília - (UCB).</p>
 <p>📌Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!</p>
+
+<br>
+
+<p>📌Graduando em Engenharia de Software com 3 anos de experiência no mercado de TI, atualmente em transição estratégica para a área de Salesforce.
+
+Possuo sólida base em engenharia de software, com foco na construção de aplicações robustas, escaláveis e bem estruturadas, além de conhecimentos em tecnologias web modernas. Atua de forma proativa na busca por soluções eficientes e de fácil manutenção.
+
+Atualmente me dedicando ao aprofundamento técnico em Salesforce, com forte foco em certificações, boas práticas da plataforma e estudo contínuo de seus principais recursos como Apex, Visualforce, Lightning e integração de sistemas. Tenho como objetivo aplicar esse conhecimento em projetos práticos na área de CRM.
+
+Profissional comprometido, curioso e sempre em evolução, com facilidade para trabalhar em equipe, se adaptar a novos desafios e contribuir para ambientes ágeis e colaborativos. Possuo forte habilidade em resolução de problemas, proativo e determinado a alcançar meus objetivos de logo e curto prazo, sempre procurando soluções mais eficientes para todo e qualquer problema.</p>
 </div>
 <tr></tr>
 
@@ -44,8 +54,13 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
       <a href="mailto:lucas-tesche@hotmail.com.br">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
     </a>
+    </a>
+      <a href="https://www.salesforce.com/trailblazer/lucastesche">
+      <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/Salesforce-lightblue)" alt="Salesforce">
+    </a>
+
 </div>
 <br>
 
