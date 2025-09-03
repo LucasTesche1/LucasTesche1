@@ -14,17 +14,16 @@
 <div align="center">
   <h3>˗ˏˋ Linguagens ˎˊ˗</h3>
   
-  [![My Skills](https://skillicons.dev/icons?i=java,js,mysql,py,react,ts,django&theme=dark)](https://github.com/LucasTesche1)
+  [![My Skills](https://skillicons.dev/icons?i=java,js,mysql,py,ts&theme=dark)](https://github.com/LucasTesche1)
+
+  <h3>˗ˏˋ Ferramentas ˎˊ˗</h3>
 
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" height="50" alt="salesforce logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
   <img width="12" />
@@ -32,6 +31,8 @@
   <img width="12" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="50" alt="figma logo"  />
 </div>
 
 
