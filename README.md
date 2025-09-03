@@ -1,23 +1,15 @@
 <div align="center"> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nata+Sans&weight=800&letterSpacing=0.5px&duration=4000&pause=500&color=0082FF&center=true&vCenter=true&width=435&lines=Salesforce+Developer;Fullstack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nata+Sans&weight=800&letterSpacing=0.5px&duration=4000&pause=500&color=0082FF&center=true&vCenter=true&width=500&lines=Salesforce+Developer;Fullstack+Developer)](https://git.io/typing-svg)
 
 </div>
 
 <div align=center>
 <p>👋Olá, me chamo Lucas Tesche!</p>
+<p>📌Desenvolvedor Fullstack / Salesforce Developer.</p>
 <p>📌Cursando o 8º semestre de Engenharia de Software na Universidade Católica de Brasília - (UCB).</p>
 <p>📌Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!</p>
 
-<br>
-
-<p>📌Graduando em Engenharia de Software com 3 anos de experiência no mercado de TI, atualmente em transição estratégica para a área de Salesforce.
-
-Possuo sólida base em engenharia de software, com foco na construção de aplicações robustas, escaláveis e bem estruturadas, além de conhecimentos em tecnologias web modernas. Atua de forma proativa na busca por soluções eficientes e de fácil manutenção.
-
-Atualmente me dedicando ao aprofundamento técnico em Salesforce, com forte foco em certificações, boas práticas da plataforma e estudo contínuo de seus principais recursos como Apex, Visualforce, Lightning e integração de sistemas. Tenho como objetivo aplicar esse conhecimento em projetos práticos na área de CRM.
-
-Profissional comprometido, curioso e sempre em evolução, com facilidade para trabalhar em equipe, se adaptar a novos desafios e contribuir para ambientes ágeis e colaborativos. Possuo forte habilidade em resolução de problemas, proativo e determinado a alcançar meus objetivos de logo e curto prazo, sempre procurando soluções mais eficientes para todo e qualquer problema.</p>
 </div>
 <tr></tr>
 
