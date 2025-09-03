@@ -49,7 +49,6 @@ Profissional comprometido, curioso e sempre em evolução, com facilidade para t
   
 </div>
 <br clear="both">
-<br clear="both">
 <div align="center">
   <h3>˗ˏˋ Entre em contato! ˎˊ˗</h3>
   <br>
