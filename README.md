@@ -13,6 +13,7 @@
 
 <div align="center">
   <h3>˗ˏˋ Linguagens ˎˊ˗</h3>
+[![My Skills](https://skillicons.dev/icons?i=java,js,mysql,py,react,ts,django&theme=dark)](https://github.com/LucasTesche1)
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" height="50" alt="salesforce logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
