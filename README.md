@@ -4,11 +4,11 @@
 
 </div>
 
-<h2 align="left">Desenvolvedor Salesforce / Dev Full Stack</h2>
+<div align=center>
 <p>👋Olá, me chamo Lucas Tesche!</p>
 <p>📌Cursando o 8º semestre de Engenharia de Software na Universidade Católica de Brasília - (UCB).</p>
 <p>📌Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!</p>
-
+</div>
 <tr></tr>
 
 <div align="center">
