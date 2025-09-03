@@ -65,6 +65,8 @@ Profissional comprometido, curioso e sempre em evolução, com facilidade para t
 
 </div>
 <br>
+<hr>
+<br>
 
 <div align=center>
   
