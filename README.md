@@ -58,7 +58,7 @@ Profissional comprometido, curioso e sempre em evolução, com facilidade para t
     </a>
     </a>
       <a href="https://www.salesforce.com/trailblazer/lucastesche">
-      <img src="[https://img.shields.io/badge/](https://img.shields.io/badge/Salesforce-lightblue)" alt="Salesforce">
+      <img src="https://img.shields.io/badge/Salesforce-lightblue" alt="Salesforce">
     </a>
 
 </div>
