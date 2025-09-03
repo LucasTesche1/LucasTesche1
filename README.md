@@ -1,6 +1,6 @@
 <div align="center"> 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nata+Sans&weight=800&letterSpacing=0.5px&duration=4000&pause=500&color=0082FF&center=true&vCenter=true&width=435&lines=system.out.println(%22Fullstack+Developer%22);Fullstack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nata+Sans&weight=800&letterSpacing=0.5px&duration=4000&pause=500&color=0082FF&center=true&vCenter=true&width=435&lines=Salesforce+Developer;Fullstack+Developer)](https://git.io/typing-svg)
 
 </div>
 
