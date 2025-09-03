@@ -32,11 +32,11 @@
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/django/django-plain.svg" height="50" alt="django logo"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/postman/postman-original.svg" height="50" alt="postman logo"  />
-  
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/git/git-original.svg" height="50" alt="git logo"  />
   
 </div>
-
-<tr></tr>
+<br clear="both">
 <br clear="both">
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
