@@ -23,10 +23,12 @@ Profissional comprometido, curioso e sempre em evolução, com facilidade para t
 
 <div align="center">
   <h3>˗ˏˋ Linguagens ˎˊ˗</h3>
+  <br>
   
   [![My Skills](https://skillicons.dev/icons?i=java,js,mysql,py,ts&theme=dark)](https://github.com/LucasTesche1)
 
   <h3>˗ˏˋ Ferramentas ˎˊ˗</h3>
+  <br>
 
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" height="50" alt="salesforce logo"  />
@@ -50,6 +52,7 @@ Profissional comprometido, curioso e sempre em evolução, com facilidade para t
 <br clear="both">
 <div align="center">
   <h3>˗ˏˋ Entre em contato! ˎˊ˗</h3>
+  <br>
     <a href="https://www.linkedin.com/in/LucasTesche1">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
