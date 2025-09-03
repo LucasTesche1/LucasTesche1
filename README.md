@@ -1,3 +1,9 @@
+<div align="center"> 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nata+Sans&weight=800&letterSpacing=0.5px&duration=4000&pause=500&color=0082FF&center=true&vCenter=true&width=435&lines=system.out.println(%22Hello+World%22);Fullstack+Developer)](https://git.io/typing-svg)
+
+</div>
+
 <h2 align="left">Desenvolvedor Salesforce / Dev Full Stack</h2>
 <p>👋Olá, me chamo Lucas Tesche!</p>
 <p>📌Cursando o 8º semestre de Engenharia de Software na Universidade Católica de Brasília - (UCB).</p>
