@@ -7,7 +7,7 @@
 <div align=center>
 <p>👋Olá, me chamo Lucas Tesche!</p>
 <p>📌Desenvolvedor Salesforce / Desenvolvedor Fullstack.</p>
-<p>📌Cursando o 8º semestre de Engenharia de Software na Universidade Católica de Brasília - (UCB).</p>
+<p>📌 Engenheiro de Software formado pela Universidade Católica de Brasília - (UCB).</p>
 <p>📌Sempre em busca de aprendizado e aperfeiçoamento profissional e pessoal!</p>
 
 </div>
